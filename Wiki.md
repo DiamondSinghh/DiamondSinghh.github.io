@@ -1,7 +1,7 @@
 # DiamondSinghh.github.io
 # Best NBA Basketball Players
 
-###Topic
+### Topic
 The best NBA basketbal players that are currenlty still in the NBA.
 Top Three best NBA players in the league in my own opinion
 
