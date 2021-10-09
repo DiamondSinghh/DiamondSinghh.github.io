@@ -1,7 +1,9 @@
 # DiamondSinghh.github.io
 # Best NBA Basketball Players
 
-A short description / abstract of the topic you choose. For the text here and below, feel free to use **bold** and *italic* fonts, [linked texts](url),  ![images](url), or any other element you think would be helpful for your audience to understand the topic.
+####Topic
+The best NBA basketbal players that are currenlty still in the NBA.
+Top Three best NBA players in the league in my own opinion
 
 
 ### Kevin Durant 
