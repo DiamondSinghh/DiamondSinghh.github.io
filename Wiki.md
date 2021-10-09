@@ -2,9 +2,9 @@
 # Best NBA Basketball Players
 
 ### Topic
-1.The best NBA basketbal players that are currenlty still in the NBA
+1. The best NBA basketbal players that are currenlty still in the NBA
 
-1.Top Three best NBA players in the league in my own opinion
+1. Top Three best NBA players in the league in my own opinion
 
 
 ### Kevin Durant 
